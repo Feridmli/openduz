@@ -5,7 +5,7 @@
  * NOTE: Set OPENSEA_API_KEY either via environment variable or the hardcoded value below.
  */
 
-const BACKEND_URL = process.env.BACKEND_URL || "https://sənin-app.onrender.com";
+const BACKEND_URL = process.env.BACKEND_URL || "https://openduz.onrender.com";
 const NFT_CONTRACT_ADDRESS = process.env.NFT_CONTRACT_ADDRESS || "0x54a88333F6e7540eA982261301309048aC431eD5";
 const PROXY_CONTRACT_ADDRESS = process.env.PROXY_CONTRACT_ADDRESS || "0x9656448941C76B79A39BC4ad68f6fb9F01181EC7";
 const PAGE_SIZE = 50;
